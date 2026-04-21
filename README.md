@@ -71,3 +71,8 @@ This project analyzes **5,000 shipment records** across 10 routes and 5 carriers
 | Python (Pandas, Matplotlib, Seaborn) | EDA, Pareto chart, scatter analysis |
 | Power BI | 5-page leadership dashboard, DAX measures |
 | Advanced Excel | Data cleaning, RCA documentation, SOP |
+
+## About
+
+**Ansa Siddiqui** | Data Analyst | Jodhpur, Rajasthan
+siddiquiansa66@gmail.com | github.com/ASAnalyticsBI
