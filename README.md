@@ -74,5 +74,5 @@ This project analyzes **5,000 shipment records** across 10 routes and 5 carriers
 
 ## About
 
-**Ansa Siddiqui** | Data Analyst | Jodhpur, Rajasthan
+**Ansa Siddiqui** | Data Analyst | Jodhpur, Rajasthan | 
 siddiquiansa66@gmail.com | github.com/ASAnalyticsBI
